@@ -1,0 +1,17 @@
+9cefed,127.0.0.1,GET,http://localhost:8000/user/,1610317789,,200
+8eed0e,127.0.0.1,GET,http://localhost:8000/regoster,1610317792,75ddad,404
+75ddad,127.0.0.1,GET,http://localhost:8000/regoster,1610317792,,404
+8e657f,127.0.0.1,GET,http://localhost:8000/register,1610317799,04365c,500
+04365c,127.0.0.1,GET,http://localhost:8000/register,1610317799,,500
+16ece8,127.0.0.1,GET,http://localhost:8000/register,1610317839,eeaf5b,500
+eeaf5b,127.0.0.1,GET,http://localhost:8000/register,1610317839,,500
+a404fe,127.0.0.1,GET,http://localhost:8000/login,1610317903,baebe0,500
+baebe0,127.0.0.1,GET,http://localhost:8000/login,1610317903,,500
+574857,127.0.0.1,GET,http://localhost:8000/login,1610317937,,200
+b4c01f,127.0.0.1,GET,http://localhost:8000/logout,1610317946,,302
+bcdaf0,127.0.0.1,GET,http://localhost:8000/,1610317947,,404
+85243c,127.0.0.1,GET,http://localhost:8000/login,1610317952,,200
+4814b7,127.0.0.1,GET,http://localhost:8000/login,1610318006,,200
+071291,127.0.0.1,GET,http://localhost:8000/login,1610318076,,200
+b45052,127.0.0.1,GET,http://localhost:8000/login,1610318265,,200
+dcdda9,127.0.0.1,GET,http://localhost:8000/login,1610318306,,200
